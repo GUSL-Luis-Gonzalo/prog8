@@ -16,7 +16,7 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-<b>Objetivo:</b> Preguntar si eres u distribuidor o cliente y calcular el pago, el descuento y el total.
+<b>Objetivo:</b> Preguntar si eres distribuidor o cliente,calcular el pago, el descuento y el total.
 <br>
 <br>
 <p><b>Breve descripción:</b>
